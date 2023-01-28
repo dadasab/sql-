@@ -1,0 +1,1 @@
+SELECT * FROM springjpa.bike_showroom;

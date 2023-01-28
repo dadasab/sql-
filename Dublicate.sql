@@ -1,0 +1,1 @@
+create table Army3 as select * from Army;

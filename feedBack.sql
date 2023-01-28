@@ -1,0 +1,1 @@
+SELECT * FROM project.feedback_details;
